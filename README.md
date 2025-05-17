@@ -72,7 +72,7 @@ Sapphire has been designed from the ground up with privacy and system safety in 
 ### 🖼️ Visual Gallery
 
 **1. Knife & Glove Control Center**  
-![Knife UI](https://i.ytimg.com/vi/zuC7stl3WWc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBAm08_J2YNx07iwtn65pijeKoIAw)  
+![Knife UI](https://repository-images.githubusercontent.com/901613522/c75c1ec8-8693-414a-9b9a-55c46e59b328)  
 *A highly responsive panel for customizing knife and glove models, patterns, and rare styles.*
 
 **2. Interactive Sticker Editor**  
